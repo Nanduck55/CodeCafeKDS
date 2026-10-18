@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Java-17-ED8B00)
 ![Static Badge](https://img.shields.io/badge/Javafx-19-blue)
 ![Static Badge](https://img.shields.io/badge/Database-MYSQL-%234479a1)
-![Static Badge](https://img.shields.io/badge/Status-Active-green)
+![Static Badge](https://img.shields.io/badge/Status-Done-green)
 ![Static Badge](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven)
 
 
